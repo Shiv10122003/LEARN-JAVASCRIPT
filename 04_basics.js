@@ -43,7 +43,7 @@ myArr.pop();
 console.log("heroes");
    
 
-
+ 
 //push is based on stack
  marvel.push(dcheroes);
  console.log(marvel);
