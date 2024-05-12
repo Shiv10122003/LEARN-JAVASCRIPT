@@ -29,7 +29,7 @@
 // // nested destructuring in object;
  let info=[
     {username:"shivam" , userid:1, gender:"male"},
-    {username:"dhairya", userid:2, gender:"female"},
+    {username:"dhairya", userid:2, gender:"male"},
     {username:"shrey", userid:3, gender:"male"}
 
  ]
